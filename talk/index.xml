@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Recent &amp; Upcoming Talks | Nyasha Chambwe</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
@@ -14,3 +15,15 @@
     
   </channel>
 </rss>
+=======
+    <title>Recent &amp; Upcoming Talks on </title>
+    <link>https://nchambwe.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nchambwe.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
+>>>>>>> 5f0dd2bdb851ab2608eec3a55e3528ac6dcb0255

@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://nchambwe.github.io/authors/admin/</loc>
+    <lastmod>2020-04-03T12:45:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://nchambwe.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://nchambwe.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://nchambwe.github.io/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://nchambwe.github.io/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://nchambwe.github.io/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://nchambwe.github.io/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://nchambwe.github.io/tags/</loc>
   </url>
   
 </urlset>
